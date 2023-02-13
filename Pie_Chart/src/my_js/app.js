@@ -36,10 +36,7 @@ window.buatDiagram = function (warnaPoint, warna, persen, width, height, x, y) {
 
 // Contoh data
 let erey = [
-    ["#008080", "#00ffff", "60%", 100, 100, (innerWidth-100)/2, 200],
-    ["#008080", "#00ffff", "60%", 100, 100, 300, 200],
-    ["#008080", "#00ffff", "60%", 100, 100, 1200, 200],
-    ["#008080", "#00ffff", "60%", 100, 100, 500, 200]
+    ["#008080", "#00ffff", "30%", 500, 500, (innerWidth-500)/2, 200]
 ];
 
 var diagram = [];
